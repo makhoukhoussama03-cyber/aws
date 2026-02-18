@@ -437,25 +437,11 @@ docker-compose up -d
 ping <IP_PRIVEE_CLIENT>
 ```
 
-## 📊 Résultats
-
-### Captures d'écran clés
-
-#### Interface Zabbix - Dashboard principal
-![Zabbix Dashboard](screenshots/05-zabbix-dashboard.png)
-
-#### Hôtes avec statut vert
-![Hôtes Zabbix](screenshots/09-hosts-green.png)
-
-#### Graphique de monitoring
-![Graphique CPU](screenshots/10-cpu-graph.png)
-
 ## 👨‍💻 Auteur
 
-**Votre Nom**
-- 📧 Email: makhoukhoussama50@gmail.com
-- 🔗 GitHub: [@votreusername](https://github.com/votreusername)
-- 💼 LinkedIn: [Votre Profil](https://linkedin.com/in/votreprofil)
+**MAKHOUKH Oussama**
+- 📧 Email: makhoukhoussama03@gmail.com
+- 🔗 GitHub: [makhoukhoussama03](https://github.com/makhoukhoussama03)
 
 ## 📄 Licence
 
